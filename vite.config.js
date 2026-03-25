@@ -1,12 +1,5 @@
-import { defineConfig } from 'vite';
+import { defineConfig } from "vite";
 
 export default defineConfig({
-  build: {
-    rollupOptions: {
-      input: {
-        main: 'index.html',
-        background: 'background.html',
-      },
-    },
-  },
+  base: "/obr-container-extension/",
 });

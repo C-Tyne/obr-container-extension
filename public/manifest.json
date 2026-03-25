@@ -4,12 +4,12 @@
   "manifest_version": 1,
   "author": "OpenAI",
   "description": "Mark tokens as loot containers and store editable loot notes on them.",
-  "icon": "/icon.svg",
-  "background_url": "/background.html",
+  "icon": "/obr-container-extension/icon.svg",
+  "background_url": "/obr-container-extension/background.html",
   "action": {
     "title": "Container Notes",
-    "icon": "/icon.svg",
-    "popover": "/",
+    "icon": "/obr-container-extension/icon.svg",
+    "popover": "/obr-container-extension/",
     "height": 520,
     "width": 420
   }
